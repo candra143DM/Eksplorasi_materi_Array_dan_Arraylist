@@ -7,7 +7,6 @@ Repositori ini berisi program simulasi pengelolaan bank sederhana menggunakan ba
 ---
 ## ⭐ Deskripsi Program ⭐
 ---
-
 Program ini mengimplementasikan sistem perbankan sederhana yang terdiri dari empat class:
 
 • Account.java: Mengelola saldo rekening melalui constructor dan method getBalance(), deposit(), serta withdraw().
