@@ -1,4 +1,5 @@
 ## 🐍Eksplorasi Materi Array dan ArrayList – Sistem Pengelolaan Bank🐍
+☆*: .｡. o(≧▽≦)o .｡.:*☆
 ---
 Repositori ini berisi program simulasi pengelolaan bank sederhana menggunakan bahasa pemrograman Java sebagai latihan materi Array dan ArrayList dalam Pemrograman Berorientasi Objek (Object-Oriented Programming).
 ---
