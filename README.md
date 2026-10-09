@@ -15,3 +15,4 @@ Program ini mengimplementasikan sistem perbankan sederhana yang terdiri dari emp
 Program ini tidak menggunakan library tambahan. Penyimpanan data dilakukan menggunakan Array bawaan Java dengan ukuran tetap.
 ---
 ## 📸 Screenshot Output Code 📸
+![Output Program](OutputCode.png)
